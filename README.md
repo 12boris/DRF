@@ -20,8 +20,3 @@ todo_frontend_1 – react + node.js
 todo_nginx_1 – nginx  
 todo_backend_1 – django  
 todo_db_1 – postgres  
-
-Окончательный вариант проекта предоставлен по адресу [http://drf.dr0n.ru](http://drf.dr0n.ru)
-#� �D�R�F�
-�
-�
